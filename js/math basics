@@ -1,0 +1,6 @@
+let b = "bracket (*)";
+let o = "of *";
+let d = "division /";
+let m = "multiply *";
+let a = "add +";
+let s = "substract -";
